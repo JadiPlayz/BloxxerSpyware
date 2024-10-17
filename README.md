@@ -1,4 +1,2 @@
-                    BloxxerSpyware
-             The script creation repository.
-          Current Scripts: BloxxerSpyware, ILOVEYOU
-               More scripts coming soon!!!
+# BloxxerSpyware
+A script repository beacause yes
